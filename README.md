@@ -8,16 +8,7 @@
 <link rel="stylesheet" type-"text/css" href="css1.css">
 </head>
 <style>
-        body {
-            
-            background-image: url('Goku.jpeg'); 
-            background-size: 
-            background-position: center; 
-            background-repeat: no-repeat; 
-            height: 100vh; 
-            margin: 0;
-        }
-    </style>
+    
   
   
   <div id="header"></div>
